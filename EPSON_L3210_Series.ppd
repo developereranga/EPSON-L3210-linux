@@ -35,9 +35,6 @@
 *Duplex DuplexTumble/Short-Edge (Flip): " << /Duplex true /Tumble true >> setpagedevice"
 *CloseUI: *Duplex
 
-
-
-
 *cupsLanguages: "ja en nl fr de it pt es ru ko zh zh_TW"
 *epcgCoreLibrary: "libEpson_202101w.so.1.0.1"
 *epcgResourceData 1: "Epson_202101w.1.data"
